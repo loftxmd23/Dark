@@ -12,7 +12,7 @@ cmd({
 },
 async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply }) => {
     try {
-        if (!q) return reply("Please provide the text you want to convert to PDF. *Eg* `.topdf` *India ZindaBad 🇮🇳*");
+        if (!q) return reply("Please provide the text you want to convert to PDF. *Eg* `.topdf` *TANZANIA*");
 
         // Create a new PDF document
         const doc = new PDFDocument();
@@ -29,7 +29,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                 caption: `
 *📄 PDF created successully!*
 
-> ©𝙿𝙾𝚆𝙴𝚁𝙴𝙳 𝙱𝚈 𝚃𝙾𝙷𝙸𝙳_𝙼𝙳 💜`
+> ©𝙿𝙾𝚆𝙴𝚁𝙴𝙳 𝙱𝚈 loft 💜`
             }, { quoted: mek });
         });
 
