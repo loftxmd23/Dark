@@ -27,7 +27,7 @@ cmd({
     }
 
     // Fetch latest version data from GitHub
-    const rawVersionUrl = 'https://raw.githubusercontent.com/Tohidkhan6332/TOHID_MD/main/data/version.json';
+    const rawVersionUrl = 'https://raw.githubusercontent.com/loftxmd23/dark/main/data/version.json';
     let latestVersion = 'Unknown';
     let latestChangelog = 'No changelog available.';
     try {
@@ -53,10 +53,10 @@ cmd({
     const lastUpdate = fs.statSync(localVersionPath).mtime.toLocaleString();
 
     // GitHub stats
-    const githubRepo = 'https://github.com/Tohidkhan6332/TOHID_MD';
+    const githubRepo = 'https://github.com/loftxmd23/dark';
 
     // Check update status
-    let updateMessage = `✅ Your Tohid_Md bot is up-to-date!`;
+    let updateMessage = `✅ Your 𝐷𝛥𝑅𝛫 𝛭𝛥𝑇𝑅𝛪𝛸 bot is up-to-date!`;
     if (localVersion !== latestVersion) {
       updateMessage = `🚀 Your Tohid_Md bot is outdated!
 🔹 *Current Version:* ${localVersion}
@@ -66,10 +66,10 @@ Use *.update* to update.`;
     }
 
     const statusMessage = `🌟 *Good ${new Date().getHours() < 12 ? 'Morning' : 'Night'}, ${pushname}!* 🌟\n\n` +
-      `📌 *Bot Name:* TOHID_MD\n🔖 *Current Version:* ${localVersion}\n📢 *Latest Version:* ${latestVersion}\n📂 *Total Plugins:* ${pluginCount}\n🔢 *Total Commands:* ${totalCommands}\n\n` +
+      `📌 *Bot Name:* 𝐷𝛥𝑅𝛫 𝛭𝛥𝑇𝑅𝛪𝛸\n🔖 *Current Version:* ${localVersion}\n📢 *Latest Version:* ${latestVersion}\n📂 *Total Plugins:* ${pluginCount}\n🔢 *Total Commands:* ${totalCommands}\n\n` +
       `💾 *System Info:*\n⏳ *Uptime:* ${uptime}\n📟 *RAM Usage:* ${ramUsage}MB / ${totalRam}MB\n⚙️ *Host Name:* ${hostName}\n📅 *Last Update:* ${lastUpdate}\n\n` +
       `📝 *Changelog:*\n${latestChangelog}\n\n` +
-      `⭐ *GitHub Repo:* ${githubRepo}\n👤 *Owner:* [TohidTech](https://github.com/Tohidkhan6332)\n\n${updateMessage}\n\n🚀 *Hey! Don't forget to fork & star the repo!*`;
+      `⭐ *GitHub Repo:* ${githubRepo}\n👤 *Owner:* [𝐥𝐨𝐟𝐭-𝐱𝐦𝐝](https://github.com/loftxmd23)\n\n${updateMessage}\n\n🚀 *Hey! Don't forget to fork & star the repo!*`;
 
     // Send the status message with an image
     await conn.sendMessage(from, {
@@ -80,8 +80,8 @@ Use *.update* to update.`;
         forwardingScore: 999,
         isForwarded: true,
         forwardedNewsletterMessageInfo: {
-          newsletterJid: '120363207624903731@newsletter',
-          newsletterName: '𝐓𝐎𝐇𝐈𝐃 𝐓𝐄𝐂𝐇 🤖',
+          newsletterJid: '120363398106360290@newsletter',
+          newsletterName: '𝐷𝛥𝑅𝛫 𝛭𝛥𝑇𝑅𝛪𝛸',
           serverMessageId: 143
         }
       }
