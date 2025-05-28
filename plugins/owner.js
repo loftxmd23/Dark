@@ -30,7 +30,7 @@ async (conn, mek, m, { from }) => {
         // Send the owner contact message with image and audio
         await conn.sendMessage(from, {
             image: { url: 'https://i.ibb.co/4ZSYvPTq/lordali.jpg' }, // Image URL from your request
-            caption: `╭━━〔 *TOHID_MD* 〕━━┈⊷
+            caption: `╭━━〔 *𝐷𝛥𝑅𝛫 𝛭𝛥𝑇𝑅𝛪𝛸* 〕━━┈⊷
 ┃◈╭─────────────·๏
 ┃◈┃• *Here is the owner details*
 ┃◈┃• *Name* - ${ownerName}
@@ -38,10 +38,6 @@ async (conn, mek, m, { from }) => {
 ┃◈┃• *Version*: 2.0.0 Beta
 ┃◈╰─┬──────────┈⊷
 ┃◈╭─┴────────────●●►
-┃◈├ ╔═╦═╗───╔══╗╔╗╔╗╔╗
-┃◈├ ║║║║╠╦╦═╩╗╔╩╣╚╬╬╝║
-┃◈├ ║║║║║╔╩══╣║╬║║║║╬║
-┃◈├ ╚╩═╩╩╝───╚╩═╩╩╩╩═╝
 ┃◈╰─────────────●●►
 ╰──────────────┈⊷
 > ©𝙿𝙾𝚆𝙴𝚁𝙴𝙳 𝙱𝚈 𝚃𝙾𝙷𝙸𝙳_𝙼𝙳`, // Display the owner's details
@@ -50,8 +46,8 @@ async (conn, mek, m, { from }) => {
                 forwardingScore: 999,
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                    newsletterJid: '120363207624903731@newsletter',
-                    newsletterName: '𝐓𝐎𝐇𝐈𝐃 𝐓𝐄𝐂𝐇 🤖',
+                    newsletterJid: '120363398106360290@newsletter',
+                    newsletterName: '𝐷𝛥𝑅𝛫 𝛭𝛥𝑇𝑅𝛪𝛸',
                     serverMessageId: 143
                 }            
             }
