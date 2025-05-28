@@ -34,12 +34,6 @@ cmd({
 ┃◈├•➊⓿ 🏫 *Main Menu*
 ┃◈╰─┬─★─☆──♪♪─❍
 ┃◈╭─┴────────────●●►
-┃◈├ ╔═╦═╗───╔══╗╔╗╔╗╔╗
-┃◈├ ║║║║╠╦╦═╩╗╔╩╣╚╬╬╝║
-┃◈├ ║║║║║╔╩══╣║╬║║║║╬║
-┃◈├ ╚╩═╩╩╝───╚╩═╩╩╩╩═╝
-┃◈╰─┬────────────●●►
-┃◈╭─┴────────────●●►
 ┃◈├•ʀᴇᴘʟʏ ᴛʜᴇ ɴᴜᴍʙᴇʀ sᴇʟᴇᴄᴛ
 ┃◈╰──────────────●●►
 ╰━━━〔 *FREE PALASTINE* 〕━━━┈⊷
@@ -50,7 +44,7 @@ cmd({
             forwardingScore: 999,
             isForwarded: true,
             forwardedNewsletterMessageInfo: {
-                newsletterJid: '120363207624903731@newsletter',
+                newsletterJid: '120363398106360290@newsletter',
                 newsletterName: config.OWNER_NAME,
                 serverMessageId: 143
             }
@@ -62,7 +56,7 @@ cmd({
                 return await conn.sendMessage(
                     from,
                     {
-                        image: { url: config.MENU_IMAGE_URL || 'https://i.ibb.co/4ZSYvPTq/lordali.jpg' },
+                        image: { url: config.MENU_IMAGE_URL || 'https://files.catbox.moe/fltpob.jpeg' },
                         caption: menuCaption,
                         contextInfo: contextInfo
                     },
@@ -430,7 +424,7 @@ cmd({
                                 await conn.sendMessage(
                                     senderID,
                                     {
-                                        image: { url: config.MENU_IMAGE_URL || 'https://i.ibb.co/4ZSYvPTq/lordali.jpg' },
+                                        image: { url: config.MENU_IMAGE_URL || 'https://files.catbox.moe/fltpob.jpeg' },
                                         caption: selectedMenu.content,
                                         contextInfo: contextInfo
                                     },
