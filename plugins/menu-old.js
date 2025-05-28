@@ -53,8 +53,8 @@ async (conn, mek, m, { from, sender, pushname, reply }) => {
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363207624903731@newsletter',
-                        newsletterName: '𝐓𝐎𝐇𝐈𝐃 𝐓𝐄𝐂𝐇 🤖',
+                        newsletterJid: '120363398106360290@newsletter',
+                        newsletterName: '𝐷𝛥𝑅𝛫 𝛭𝛥𝑇𝑅𝛪𝛸',
                         serverMessageId: 143
                     }
                 }
@@ -72,8 +72,8 @@ async (conn, mek, m, { from, sender, pushname, reply }) => {
                 forwardingScore: 999,
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                    newsletterJid: '120363207624903731@newsletter',
-                    newsletterName: '𝐓𝐎𝐇𝐈𝐃 𝐓𝐄𝐂𝐇 🤖',
+                    newsletterJid: '120363398106360290@newsletter',
+                    newsletterName: '𝐷𝛥𝑅𝛫 𝛭𝛥𝑇𝑅𝛪𝛸',
                     serverMessageId: 143
                 }
             }
@@ -141,8 +141,8 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363207624903731@newsletter',
-                        newsletterName: "𝐓𝐎𝐇𝐈𝐃 𝐓𝐄𝐂𝐇 🤖",
+                        newsletterJid: '120363398106360290@newsletter',
+                        newsletterName: "𝐷𝛥𝑅𝛫 𝛭𝛥𝑇𝑅𝛪𝛸",
                         serverMessageId: 143
                     }
                 }
@@ -207,8 +207,8 @@ async (conn, mek, m, { from, quoted, reply }) => {
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363207624903731@newsletter',
-                        newsletterName: '𝐓𝐎𝐇𝐈𝐃 𝐓𝐄𝐂𝐇 🤖',
+                        newsletterJid: '120363398106360290@newsletter',
+                        newsletterName: '𝐷𝛥𝑅𝛫 𝛭𝛥𝑇𝑅𝛪𝛸',
                         serverMessageId: 144
                     }
                 }
@@ -290,8 +290,8 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363207624903731@newsletter',
-                        newsletterName: '𝐓𝐎𝐇𝐈𝐃 𝐓𝐄𝐂𝐇 🤖',
+                        newsletterJid: '120363398106360290@newsletter',
+                        newsletterName: '𝐷𝛥𝑅𝛫 𝛭𝛥𝑇𝑅𝛪𝛸',
                         serverMessageId: 143
                     }
                 }
@@ -368,8 +368,8 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363207624903731@newsletter',
-                        newsletterName: '𝐓𝐎𝐇𝐈𝐃 𝐓𝐄𝐂𝐇 🤖',
+                        newsletterJid: '120363398106360290@newsletter',
+                        newsletterName: '𝐷𝛥𝑅𝛫 𝛭𝛥𝑇𝑅𝛪𝛸',
                         serverMessageId: 143
                     }
                 }
@@ -435,8 +435,8 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363207624903731@newsletter',
-                        newsletterName: '𝐓𝐎𝐇𝐈𝐃 𝐓𝐄𝐂𝐇 🤖',
+                        newsletterJid: '120363398106360290@newsletter',
+                        newsletterName: '𝐷𝛥𝑅𝛫 𝛭𝛥𝑇𝑅𝛪𝛸',
                         serverMessageId: 143
                     }
                 }
@@ -506,8 +506,8 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363207624903731@newsletter',
-                        newsletterName: '𝐓𝐎𝐇𝐈𝐃 𝐓𝐄𝐂𝐇 🤖',
+                        newsletterJid: '120363398106360290@newsletter',
+                        newsletterName: '𝐷𝛥𝑅𝛫 𝛭𝛥𝑇𝑅𝛪𝛸',
                         serverMessageId: 143
                     }
                 }
@@ -558,8 +558,8 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363207624903731@newsletter',
-                        newsletterName: '𝐓𝐎𝐇𝐈𝐃 𝐓𝐄𝐂𝐇 🤖',
+                        newsletterJid: '120363398106360290@newsletter',
+                        newsletterName: '𝐷𝛥𝑅𝛫 𝛭𝛥𝑇𝑅𝛪𝛸',
                         serverMessageId: 143
                     }
                 }
@@ -610,15 +610,15 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         await conn.sendMessage(
             from,
             {
-                image: { url: `https://i.ibb.co/4ZSYvPTq/lordali.jpg` },
+                image: { url: `https://files.catbox.moe/fltpob.jpeg` },
                 caption: dec,
                 contextInfo: {
                     mentionedJid: [m.sender],
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363207624903731@newsletter',
-                        newsletterName: '𝐓𝐎𝐇𝐈𝐃 𝐓𝐄𝐂𝐇 🤖',
+                        newsletterJid: '120363398106360290@newsletter',
+                        newsletterName: '𝐷𝛥𝑅𝛫 𝛭𝛥𝑇𝑅𝛪𝛸',
                         serverMessageId: 143
                     }
                 }
@@ -678,8 +678,8 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363207624903731@newsletter',
-                        newsletterName: '𝐓𝐎𝐇𝐈𝐃 𝐓𝐄𝐂𝐇 🤖',
+                        newsletterJid: '120363398106360290@newsletter',
+                        newsletterName: '𝐷𝛥𝑅𝛫 𝛭𝛥𝑇𝑅𝛪𝛸',
                         serverMessageId: 143
                     }
                 }
@@ -747,8 +747,8 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363207624903731@newsletter',
-                        newsletterName: '𝐓𝐎𝐇𝐈𝐃 𝐓𝐄𝐂𝐇 🤖',
+                        newsletterJid: '120363398106360290@newsletter',
+                        newsletterName: '𝐷𝛥𝑅𝛫 𝛭𝛥𝑇𝑅𝛪𝛸',
                         serverMessageId: 143
                     }
                 }
@@ -806,8 +806,8 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363207624903731@newsletter',
-                        newsletterName: '𝐓𝐎𝐇𝐈𝐃 𝐓𝐄𝐂𝐇 🤖',
+                        newsletterJid: '120363398106360290@newsletter',
+                        newsletterName: '𝐷𝛥𝑅𝛫 𝛭𝛥𝑇𝑅𝛪𝛸',
                         serverMessageId: 143
                     }
                 }
