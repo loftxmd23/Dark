@@ -33,7 +33,7 @@ cmd({
 
     // Create the response message
     const message = `
-*TOHID_MD NPM SEARCH*
+*𝐷𝛥𝑅𝛫 𝛭𝛥𝑇𝑅𝛪𝛸 NPM SEARCH*
 
 *🔰 NPM PACKAGE:* ${packageName}
 *📄 DESCRIPTION:* ${description}
