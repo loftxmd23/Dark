@@ -39,19 +39,19 @@ ${truncatedCode}
 \`\`\`
 ╰──────────⊷  
 ⚡ Full file sent below 📂  
-*©𝙿𝙾𝚆𝙴𝚁𝙴𝙳 𝙱𝚈 𝚃𝙾𝙷𝙸𝙳_𝙼𝙳* 💜`;
+*©𝙿𝙾𝚆𝙴𝚁𝙴𝙳 𝙱𝚈 𝐥𝐨𝐟𝐭-𝐱𝐦𝐝* 💜`;
 
         // Send image with truncated source code
         await conn.sendMessage(from, { 
-            image: { url: `https://i.ibb.co/4ZSYvPTq/lordali.jpg` },  // Image URL
+            image: { url: `https://files.catbox.moe/fltpob.jpeg` },  // Image URL
             caption: formattedCode,
             contextInfo: {
                 mentionedJid: [m.sender],
                 forwardingScore: 999,
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                    newsletterJid: '120363207624903731@newsletter',
-                    newsletterName: '𝐓𝐎𝐇𝐈𝐃 𝐓𝐄𝐂𝐇 🤖',
+                    newsletterJid: '120363398106360290@newsletter',
+                    newsletterName: '𝐷𝛥𝑅𝛫 𝛭𝛥𝑇𝑅𝛪𝛸',
                     serverMessageId: 143
                 }
             }
