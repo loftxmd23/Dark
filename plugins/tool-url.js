@@ -65,7 +65,7 @@ cmd({
       `*${mediaType} Uploaded Successfully*\n\n` +
       `*Size:* ${formatBytes(mediaBuffer.length)}\n` +
       `*URL:* ${mediaUrl}\n\n` +
-      `> ©𝙿𝙾𝚆𝙴𝚁𝙴𝙳 𝙱𝚈 𝚃𝙾𝙷𝙸𝙳_𝙼𝙳 💜`
+      `> ©𝙿𝙾𝚆𝙴𝚁𝙴𝙳 𝙱𝚈 loft 💜`
     );
 
   } catch (error) {
