@@ -113,7 +113,7 @@ const port = process.env.PORT || 9090;
   console.log('Plugins installed successful ✅')
   console.log('Bot connected to whatsapp ✅')
   
-  let up = `*Hello there Tohid_Md User! \ud83d\udc4b\ud83c\udffb* \n\n> Simple , Straight Forward But Loaded With Features \ud83c\udf8a, Meet Tohid_Md  WhatsApp Bot.\n\n *Thanks for using 𝐷𝛥𝑅𝛫 𝛭𝛥𝑇𝑅𝛪𝛸 \ud83d\udea9* \n\n> Join WhatsApp Channel :- ⤵️\n \nhttps://whatsapp.com/channel/0029VaGyP933bbVC7G0x0i2T\n\n- *YOUR PREFIX:* = ${prefix}\n\nDont forget to give star to repo ⬇️\n\nhttps://github.com/loftxmd23/DARK-MATRIXX\n\n> ©𝙿𝙾𝚆𝙴𝚁𝙴𝙳 𝙱𝚈 𝐿𝛩𝐹𝑇 𝛸𝛭𝐷  \ud83d\udda4`;
+  let up = `*Hello there Tohid_Md User! \ud83d\udc4b\ud83c\udffb* \n\n> Simple , Straight Forward But Loaded With Features \ud83c\udf8a, Meet Tohid_Md  WhatsApp Bot.\n\n *Thanks for using 𝐷𝛥𝑅𝛫 𝛭𝛥𝑇𝑅𝛪𝛸 \ud83d\udea9* \n\n> Join WhatsApp Channel :- ⤵️\n \nhttps://whatsapp.com/channel/0029Vb6B9xFCxoAseuG1g610\n\n- *YOUR PREFIX:* = ${prefix}\n\nDont forget to give star to repo ⬇️\n\nhttps://github.com/loftxmd23/DARK-MATRIXX\n\n> ©𝙿𝙾𝚆𝙴𝚁𝙴𝙳 𝙱𝚈 𝐿𝛩𝐹𝑇 𝛸𝛭𝐷  \ud83d\udda4`;
     conn.sendMessage(conn.user.id, { image: { url: `https://files.catbox.moe/fltpob.jpeg` }, caption: up })
   }
   })
