@@ -32,7 +32,7 @@ cmd({
       + `┃🎥 *Videos:* ${yt.video_count}\n`
       + `┃🔗 *Channel Link:* (${yt.channel})\n`
       + `╰━━━⪼\n\n`
-      + `🔹 *©𝙿𝙾𝚆𝙴𝚁𝙴𝙳 𝙱𝚈 𝚃𝙾𝙷𝙸𝙳_𝙼𝙳*`;
+      + `🔹 *©𝙿𝙾𝚆𝙴𝚁𝙴𝙳 𝙱𝚈 loft*`;
 
     await conn.sendMessage(from, {
       image: { url: yt.avatar },
