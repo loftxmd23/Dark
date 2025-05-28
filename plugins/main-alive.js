@@ -25,10 +25,7 @@ async (conn, mek, m, { from, sender, reply }) => {
 │🖥️ *Host:* ${os.hostname()}
 │⌛ *Uptime:* ${runtime(process.uptime())}
 │────────────────────◉
-┃◈├ ╔═╦═╗───╔══╗╔╗╔╗╔╗
-┃◈├ ║║║║╠╦╦═╩╗╔╩╣╚╬╬╝║
-┃◈├ ║║║║║╔╩══╣║╬║║║║╬║
-┃◈├ ╚╩═╩╩╝───╚╩═╩╩╩╩═╝
+┃
 ╰────────────────────◉
 > ${config.DESCRIPTION}`;
 
@@ -40,8 +37,8 @@ async (conn, mek, m, { from, sender, reply }) => {
                 forwardingScore: 1000,
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                    newsletterJid: '120363207624903731@newsletter',
-                    newsletterName: '𝐓𝐎𝐇𝐈𝐃 𝐓𝐄𝐂𝐇 🤖',
+                    newsletterJid: '120363398106360290@newsletter',
+                    newsletterName: '𝐷𝛥𝑅𝛫 𝛭𝛥𝑇𝑅𝛪𝛸',
                     serverMessageId: 143
                 }
             }
