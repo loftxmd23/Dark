@@ -15,7 +15,7 @@ cmd({
   reply
 }) => {
   if (!args[0]) {
-    return reply("❌ Where is the GitHub link?\n\nExample:\n.gitclone https://github.com/Tohidkhan6332/TOHID_MD");
+    return reply("❌ Where is the GitHub link?\n\nExample:\n.gitclone https://github.com/loftxmd23/DARK-MATRIXX");
   }
 
   if (!/^(https:\/\/)?github\.com\/.+/.test(args[0])) {
@@ -43,7 +43,7 @@ cmd({
     const fileName = contentDisposition ? contentDisposition.match(/filename=(.*)/)[1] : `${repo}.zip`;
 
     // Notify user of the download
-    reply(`📥 *Downloading repository...*\n\n*Repository:* ${username}/${repo}\n*Filename:* ${fileName}\n\n> *©𝙿𝙾𝚆𝙴𝚁𝙴𝙳 𝙱𝚈 𝚃𝙾𝙷𝙸𝙳_𝙼𝙳*`);
+    reply(`📥 *Downloading repository...*\n\n*Repository:* ${username}/${repo}\n*Filename:* ${fileName}\n\n> *©𝙿𝙾𝚆𝙴𝚁𝙴𝙳 𝙱𝚈 loft*`);
 
     // Send the zip file to the user with custom contextInfo
     await conn.sendMessage(from, {
@@ -55,8 +55,8 @@ cmd({
         forwardingScore: 999,
         isForwarded: true,
         forwardedNewsletterMessageInfo: {
-          newsletterJid: '120363207624903731@newsletter',
-          newsletterName: '𝐓𝐎𝐇𝐈𝐃 𝐓𝐄𝐂𝐇 🤖',
+          newsletterJid: '120363398106360290@newsletter',
+          newsletterName: '𝐷𝛥𝑅𝛫 𝛭𝛥𝑇𝑅𝛪𝛸',
           serverMessageId: 143
         }
       }
