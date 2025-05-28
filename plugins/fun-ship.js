@@ -38,8 +38,8 @@ cmd({
         forwardingScore: 999,
         isForwarded: true,
         forwardedNewsletterMessageInfo: {
-          newsletterJid: "©𝙿𝙾𝚆𝙴𝚁𝙴𝙳 𝙱𝚈 𝚃𝙾𝙷𝙸𝙳_𝙼𝙳",
-          newsletterName: "𝐓𝐎𝐇𝐈𝐃 𝐓𝐄𝐂𝐇 🤖",
+          newsletterJid: "©𝙿𝙾𝚆𝙴𝚁𝙴𝙳 𝙱𝚈 𝐥𝐨𝐟𝐭-𝐱𝐦𝐝",
+          newsletterName: "𝐷𝛥𝑅𝛫 𝛭𝛥𝑇𝑅𝛪𝛸",
           serverMessageId: 143
         }
       }
