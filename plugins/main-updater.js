@@ -26,14 +26,14 @@ cmd({
         const currentHash = await getCommitHash();
 
         if (latestCommitHash === currentHash) {
-            return reply("✅ Your TOHID_MD bot is already up-to-date!");
+            return reply("✅ Your 𝐷𝛥𝑅𝛫 𝛭𝛥𝑇𝑅𝛪𝛸 is already up-to-date!");
         }
 
-        await reply("🚀 Updating TOHID_MD Bot...");
+        await reply("🚀 Updating 𝐷𝛥𝑅𝛫 𝛭𝛥𝑇𝑅𝛪𝛸...");
 
         // Download the latest code
         const zipPath = path.join(__dirname, "latest.zip");
-        const { data: zipData } = await axios.get("https://github.com/Tohidkhan6332/TOHID_MD/archive/main.zip", { responseType: "arraybuffer" });
+        const { data: zipData } = await axios.get("https://github.com/loftxmd23/dark/archive/main.zip", { responseType: "arraybuffer" });
         fs.writeFileSync(zipPath, zipData);
 
         // Extract ZIP file
