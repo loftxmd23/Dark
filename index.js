@@ -69,7 +69,7 @@ const {
 if (!fs.existsSync(__dirname + '/sessions/creds.json')) {
 if(!config.SESSION_ID) return console.log('Please add your session to SESSION_ID env !!')
 const sessdata = config.SESSION_ID.replace("𝐷𝛥𝑅𝛫 𝛭𝛥𝑇𝑅𝛪𝛸~", '');
-const filer = File.fromURL('https://mega.nz/file/yI8QQTqQ#Guu1K15M1oD_F662O9bfyCpCOS5mvz2sN4XlWK89_d8')
+const filer = File.fromURL('')
 filer.download((err, data) => {
 if(err) throw err
 fs.writeFile(__dirname + '/sessions/creds.json', data, () => {
